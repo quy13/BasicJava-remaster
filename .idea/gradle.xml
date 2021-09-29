@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/16_Java_Variables_And_Concatenation" />
+            <option value="$PROJECT_DIR$/app/17-20_Java_Variable_Types" />
+            <option value="$PROJECT_DIR$/app/21-27_Java_Operator" />
+            <option value="$PROJECT_DIR$/app/28_The_for-loop" />
+            <option value="$PROJECT_DIR$/app/29_The_else-if_Statement" />
+            <option value="$PROJECT_DIR$/app/30_The_Switch-Statement" />
+            <option value="$PROJECT_DIR$/app/32-34_Exercise-Switch_Statements" />
+            <option value="$PROJECT_DIR$/app/33_The_Do_While_Loop" />
+            <option value="$PROJECT_DIR$/app/35_Methods_and_String_Parameters" />
+            <option value="$PROJECT_DIR$/app/36_Function_Parameters-Add_Method" />
+            <option value="$PROJECT_DIR$/app/37_Return_Types_in_Methods-Double_Return_Type" />
+            <option value="$PROJECT_DIR$/app/39_String_Return_Function_Type" />
+            <option value="$PROJECT_DIR$/app/FirstJava" />
+            <option value="$PROJECT_DIR$/app/Section_7-8_CHALLENGE_Dividing_and_Multiplying_Integers" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

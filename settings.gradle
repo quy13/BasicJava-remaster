@@ -1,0 +1,24 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "BasicJava-remaster"
+include ':app'
+include ':app:FirstJava'
+include ':app:16_Java_Variables_And_Concatenation'
+include ':app:17-20_Java_Variable_Types'
+include ':app:21-27_Java_Operator'
+include ':app:28_The_for-loop'
+include ':app:29_The_else-if_Statement'
+include ':app:32-34_Exercise-Switch_Statements'
+include ':app:33_The_Do_While_Loop'
+include ':app:30_The_Switch-Statement'
+include ':app:35_Methods_and_String_Parameters'
+include ':app:36_Function_Parameters-Add_Method'
+include ':app:37_Return_Types_in_Methods-Double_Return_Type'
+include ':app:39_String_Return_Function_Type'
+include ':app:Section_7-8_CHALLENGE_Dividing_and_Multiplying_Integers'
